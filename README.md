@@ -29,7 +29,11 @@
 ---
 
 ### 📂 Major Projects
-- **[ESG 등급 예측 모델]** : 재무 데이터를 활용한 ESG 평가 예측 및 Streamlit 대시보드 구현
+
+* **[ESG 등급 예측 모델 개발]** ([Project Link](https://github.com/hw1357/Create_ESG_Grade_Prediction_Model))
+    * **설명**: 기업의 재무 및 비재무 데이터를 활용하여 ESG 등급을 예측하는 머신러닝 모델 구현
+    * **나의 역할**: Data Analysis (EDA & Insight Extraction), Full-Pipeline ML Coding (Collection, Engineering, Modeling), Advanced Modeling & Optimization, Advanced Dashboard Functional Coding (XAI & Strategy Advisory)
+    * **사용 기술**: Python, Pandas, Scikit-learn, Matplotlib 등
 
 
 ### ✨ About Me
