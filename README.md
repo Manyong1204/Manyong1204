@@ -15,10 +15,12 @@
 
 ### 🏆 Certifications
 - **ADsP** (데이터분석 준전문가)
-- **AICE Associate**
 - **재경관리사**
 - **SQLD** (준비 중 📝)
 - **빅데이터분석가** (준비 중 📝)
+- <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/YktRTmxiZUk1TXJDZWxkMlBnVktsZz09">
+  <img src="https://img.shields.io/badge/AICE_Associate-00CC00?style=for-the-badge&logo=ArtificialIntelligence&logoColor=white">
+</a>
 
 ---
 
