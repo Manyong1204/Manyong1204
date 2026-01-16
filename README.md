@@ -17,19 +17,21 @@
 
 ### 🏅 Certifications & Qualifications
 
+### 🏅 Certifications & Qualifications
+
 | 자격증 명칭 | 취득 일자 | 배지 및 증명 |
 | :--- | :---: | :--- |
 | **AICE Associate** | 2025.12.20 | <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/YktRTmxiZUk1TXJDZWxkMlBnVktsZz09"><img width="100" alt="AICE Associate_image" src="https://github.com/user-attachments/assets/556b62de-eb2b-4a43-8789-d8224760e452" /></a> |
-| **ADsP (데이터분석 준전문가)** | 2025.11.28 | <img src="https://img.shields.io/badge/ADsP-blue?style=flat-square"> |
-| **재경관리사** | 2022.04 | <img src="https://img.shields.io/badge/재경관리사-orange?style=flat-square"> |
-| **증권펀드투자상담사** | 2014.05 | <img src="https://img.shields.io/badge/재경관리사-orange?style=flat-square"> |
-| **전산회계 1급** | 2013.04 | <img src="https://img.shields.io/badge/재경관리사-orange?style=flat-square"> |
-| **전산회계운용사(전산회계사) 2급** | 2015.05 | <img src="https://img.shields.io/badge/재경관리사-orange?style=flat-square"> |
-| **워드프로세서 1급** | 2014.02 | <img src="https://img.shields.io/badge/재경관리사-orange?style=flat-square"> |
-| **컴퓨터활용능력 2급** | 2013.03 | <img src="https://img.shields.io/badge/재경관리사-orange?style=flat-square"> |
-| **2종보통운전면허** | 2023.11 | <img src="https://img.shields.io/badge/재경관리사-orange?style=flat-square"> |
-| **新JLPT N2급** | 2022.01 | <img src="https://img.shields.io/badge/재경관리사-orange?style=flat-square"> |
-| **SQLD** | *Preparing* | <img src="https://img.shields.io/badge/SQLD-grey?style=flat-square"> |
+| **ADsP (데이터분석 준전문가)** | 2025.11.28 | <img src="https://img.shields.io/badge/ADsP-blue?style=flat-square&logo=analytics&logoColor=white"> |
+| **재경관리사** | 2022.04 | <img src="https://img.shields.io/badge/Financial_Manager-orange?style=flat-square&logo=cashapp&logoColor=white"> |
+| **증권펀드투자상담사** | 2014.05 | <img src="https://img.shields.io/badge/Fund_Advisor-gold?style=flat-square&logo=trendingup&logoColor=white"> |
+| **전산회계 1급** | 2013.04 | <img src="https://img.shields.io/badge/Accounting_L1-31C653?style=flat-square&logo=googlesheets&logoColor=white"> |
+| **전산회계운용사 2급** | 2015.05 | <img src="https://img.shields.io/badge/Accounting_Manager-31C653?style=flat-square&logo=googlesheets&logoColor=white"> |
+| **워드프로세서 1급** | 2014.02 | <img src="https://img.shields.io/badge/Word_Processor-0078D4?style=flat-square&logo=microsoftword&logoColor=white"> |
+| **컴퓨터활용능력 2급** | 2013.03 | <img src="https://img.shields.io/badge/Comp_Literacy-0078D4?style=flat-square&logo=microsoftexcel&logoColor=white"> |
+| **新JLPT N2급** | 2022.01 | <img src="https://img.shields.io/badge/JLPT_N2-BC002D?style=flat-square&logo=language&logoColor=white"> |
+| **2종보통운전면허** | 2023.11 | <img src="https://img.shields.io/badge/Driver_License-555555?style=flat-square&logo=speedtest&logoColor=white"> |
+| **SQLD** | *Preparing* | <img src="https://img.shields.io/badge/SQLD-grey?style=flat-square&logo=mysql&logoColor=white"> |
 
 
 
