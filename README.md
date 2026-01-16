@@ -34,4 +34,4 @@
 ---
 
 ### 📈 GitHub Stats
-![선아의 깃허브 스탯](https://github-readme-stats.vercel.app/api?username=여기에_선아_아이디_넣기&show_icons=true&theme=radical)
+![선아의 깃허브 스탯](https://github-readme-stats.vercel.app/api?username=Manyong1204&show_icons=true&theme=radical)
