@@ -28,7 +28,7 @@
 | **워드프로세서 1급** | 2014.02 | <img width="100" src="./certificates/워드프로세서%201급%20디지털%20배지.png"> |
 | **컴퓨터활용능력 2급** | 2013.03 | <img width="100" src="./certificates/컴퓨터활용능력%202급%20디지털%20배지.png"> |
 | **新JLPT N2급** | 2022.01 | *Coming Soon...* 🇯🇵 |
-| **2종보통운전면허** | 2023.11 | *Coming Soon...* 🚗 |
+| **2종보통운전면허** | 2023.11 | |
 | **SQLD** | *Preparing* | <img src="https://img.shields.io/badge/SQLD-grey?style=flat-square&logo=mysql&logoColor=white"> |
 
 
