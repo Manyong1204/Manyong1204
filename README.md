@@ -20,7 +20,7 @@
 | 자격증 명칭 | 취득 일자 | 배지 및 증명 |
 | :--- | :---: | :--- |
 | **AICE Associate** | 2025.12.20 | [![AICE Badge](<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/YktRTmxiZUk1TXJDZWxkMlBnVktsZz09">
-  <img width="250" height="250" alt="AICE Associate_image" src="https://github.com/user-attachments/assets/556b62de-eb2b-4a43-8789-d8224760e452" />) |
+  <img width="250" height="250" alt="AICE Associate_image" src="https://github.com/user-attachments/assets/556b62de-eb2b-4a43-8789-d8224760e452" /> |
 | **ADsP (데이터분석 준전문가)** | 2025.11.28 | <img src="https://img.shields.io/badge/ADsP-blue?style=flat-square"> |
 | **재경관리사** | 20XX.XX.XX | <img src="https://img.shields.io/badge/재경관리사-orange?style=flat-square"> |
 | **SQLD** | *Preparing* | <img src="https://img.shields.io/badge/SQLD-grey?style=flat-square"> |
