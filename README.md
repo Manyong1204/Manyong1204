@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 안녕하세요, 데이터 분석가 민선아입니다!
 
-<!--
-**Manyong1204/Manyong1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+회계 도메인의 **정교함**과 AIoT 기술의 **혁신**을 연결하는 데이터 분석가를 꿈꾸고 있습니다. 
+5년 6개월간의 재무 실무 경험을 바탕으로, 데이터 속에 숨겨진 비즈니스 인사이트를 발굴하는 데 열정을 쏟고 있습니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white">
+</p>
+
+### 🏆 Certifications
+- **ADsP** (데이터분석 준전문가)
+- **AICE Associate**
+- **재경관리사**
+- **SQLD** (준비 중 📝)
+
+---
+
+### 📂 Major Projects
+- **[ESG 등급 예측 모델]** : 재무 데이터를 활용한 ESG 평가 예측 및 Streamlit 대시보드 구현
+- **[준비 중]** : AIoT 센서 데이터를 활용한 분석 프로젝트 예정
+
+### ✨ About Me
+- 🎓 **Education**: AIoT 데이터 분석가 부트캠프 참여 중
+- 🎯 **Goal**: 2026 하반기 고려대학교 대학원 진학 및 데이터 전문가 성장
+- 🎨 **Interests**: 데이터 시각화와 드로잉을 통해 복잡한 정보를 직관적으로 전달하는 것을 좋아합니다.
+
+---
+
+### 📈 GitHub Stats
+![선아의 깃허브 스탯](https://github-readme-stats.vercel.app/api?username=여기에_선아_아이디_넣기&show_icons=true&theme=radical)
