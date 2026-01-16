@@ -17,8 +17,6 @@
 
 ### 🏅 Certifications & Qualifications
 
-### 🏅 Certifications & Qualifications
-
 | 자격증 명칭 | 취득 일자 | 배지 및 증명 |
 | :--- | :---: | :--- |
 | **AICE Associate** | 2025.12.20 | <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/YktRTmxiZUk1TXJDZWxkMlBnVktsZz09"><img width="100" alt="AICE Associate_image" src="https://github.com/user-attachments/assets/556b62de-eb2b-4a43-8789-d8224760e452" /></a> |
