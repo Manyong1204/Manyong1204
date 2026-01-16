@@ -19,8 +19,8 @@
 - **SQLD** (준비 중 📝)
 - **빅데이터분석가** (준비 중 📝)
 - <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/YktRTmxiZUk1TXJDZWxkMlBnVktsZz09">
-  <img src="https://img.shields.io/badge/AICE_Associate-00CC00?style=for-the-badge&logo=ArtificialIntelligence&logoColor=white">
-</a>
+  <img width="250" height="250" alt="AICE Associate_image" src="https://github.com/user-attachments/assets/556b62de-eb2b-4a43-8789-d8224760e452" />
+
 
 ---
 
