@@ -24,7 +24,7 @@
 
 ### 📂 Major Projects
 - **[ESG 등급 예측 모델]** : 재무 데이터를 활용한 ESG 평가 예측 및 Streamlit 대시보드 구현
-- **[준비 중]** : AIoT 센서 데이터를 활용한 분석 프로젝트 예정
+
 
 ### ✨ About Me
 - 🎓 **Education**: AIoT 데이터 분석가 부트캠프 참여 중
