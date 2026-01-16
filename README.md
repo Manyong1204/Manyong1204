@@ -24,9 +24,9 @@
 | **재경관리사** | 2022.04 | [<img src="https://img.shields.io/badge/Financial_Manager-orange?style=flat-square&logo=cashapp&logoColor=white">](./certificates/재경관리사%20합격확인서.png) |
 | **증권펀드투자상담사** | 2014.05 | [<img src="https://img.shields.io/badge/Fund_Advisor-gold?style=flat-square&logo=trendingup&logoColor=white">](./certificates/펀드투자상담사%20합격증.pdf) |
 | **전산회계 1급** | 2013.04 | [<img src="https://img.shields.io/badge/Accounting_L1-31C653?style=flat-square&logo=googlesheets&logoColor=white">](./certificates/전산회계%201급%20자격취득확인서.png) |
-| **전산회계운용사 2급** | 2015.05 | [<img src="https://img.shields.io/badge/Accounting_Manager-31C653?style=flat-square&logo=googlesheets&logoColor=white">](./certificates/전산회계운용사%202급%20디지털배지.png) |
-| **워드프로세서 1급** | 2014.02 | [<img src="https://img.shields.io/badge/Word_Processor-0078D4?style=flat-square&logo=microsoftword&logoColor=white">](./certificates/워드프로세서%201급%20디지털%20배지.png) |
-| **컴퓨터활용능력 2급** | 2013.03 | [<img src="https://img.shields.io/badge/Comp_Literacy-0078D4?style=flat-square&logo=microsoftexcel&logoColor=white">](./certificates/컴퓨터활용능력%202급%20디지털%20배지.png) |
+| **전산회계운용사 2급** | 2015.05 | [<img width="100" alt="전산회계운용사_배지" src="./certificates/전산회계운용사%202급%20디지털배지.png">](./certificates/전산회계운용사%202급%20디지털배지.png) |
+| **워드프로세서 1급** | 2014.02 | [<img width="100" alt="워드프로세서_배지" src="./certificates/워드프로세서%201급%20디지털%20배지.png">](./certificates/워드프로세서%201급%20디지털%20배지.png) |
+| **컴퓨터활용능력 2급** | 2013.03 | [<img width="100" alt="컴활_배지" src="./certificates/컴퓨터활용능력%202급%20디지털%20배지.png">](./certificates/컴퓨터활용능력%202급%20디지털%20배지.png) |
 | **新JLPT N2급** | 2022.01 | *Coming Soon...* 🇯🇵 |
 | **2종보통운전면허** | 2023.11 | *Coming Soon...* 🚗 |
 | **SQLD** | *Preparing* | <img src="https://img.shields.io/badge/SQLD-grey?style=flat-square&logo=mysql&logoColor=white"> |
