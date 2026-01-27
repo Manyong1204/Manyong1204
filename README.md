@@ -78,7 +78,3 @@
 
 
 ---
-
-
-### 📈 GitHub Stats
-![선아의 깃허브 스탯](https://github-readme-stats.vercel.app/api?username=Manyong1204&show_icons=true&theme=radical&cache_seconds=1800)
