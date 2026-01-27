@@ -2,7 +2,9 @@
 
 > **"회계 도메인의 정교함과 AIoT 기술의 혁신을 연결하여 데이터 속 숨겨진 비즈니스 인사이트를 발굴합니다."**
 
+
 ---
+
 
 ### ✨ About Me
 
@@ -12,7 +14,9 @@
 * **실무 중심의 문제 해결:** 수십 명의 초과근무 데이터를 수기로 계산하던 비효율적인 업무를 엑셀 함수 기반 자동화로 개선하여, 수 시간이 걸리던 작업을 **단 몇 분 내로 단축**시킨 경험이 있습니다.
 * **현재의 지향점:** 이러한 실무 경험을 바탕으로, 전처리 기준이 명확하고 결과를 비즈니스 관점에서 설명할 수 있는 데이터 분석 및 대시보드 구현에 집중하고 있습니다.
 
+
 ---
+
 
 ### 🛠 Tech Stack
 
@@ -20,7 +24,9 @@
 * **Database & Tools:** MySQL, Streamlit, Notion
 * **Domain Knowledge:** 회계 실무(더존 위하고/Smart A), 법인 결산, 부가세 신고, 재무지표 분석
 
+
 ---
+
 
 ### 🚀 Major Projects
 
@@ -32,6 +38,7 @@
 
 ---
 
+
 ### 🛠 Tech Stack & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
@@ -40,6 +47,8 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white">
 </p>
 
+
+---
 
 
 ### 🏅 Certifications & Qualifications
@@ -67,7 +76,9 @@
 * **GitHub:** [Manyong1204](https://github.com/Manyong1204)
 * **Education:** AIoT 데이터 분석가 부트캠프 참여 중
 
+
 ---
+
 
 ### 📈 GitHub Stats
 ![선아의 깃허브 스탯](https://github-readme-stats.vercel.app/api?username=Manyong1204&show_icons=true&theme=radical&cache_seconds=1800)
