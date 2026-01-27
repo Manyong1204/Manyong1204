@@ -24,7 +24,7 @@
 
 ### 🚀 Major Projects
 
-#### 📊 [ESG 등급 예측 모델 개발]
+#### 📊 [ESG 등급 예측 모델 개발] (https://github.com/hw1357/Create_ESG_Grade_Prediction_Model)
 * **설명:** 기업의 재무 및 비재무 데이터를 활용하여 ESG 등급을 예측하는 머신러닝 모델 구현
 * **역할:** 데이터 분석(EDA) 및 인사이트 추출, 수집부터 모델링까지의 ML 파이프라인 구축, XAI 기반 대시보드 구현
 * **기술:** Python, Pandas, Scikit-learn, Matplotlib 등
