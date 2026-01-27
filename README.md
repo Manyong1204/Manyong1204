@@ -63,6 +63,12 @@ AI를 활용한 구조화 학습 방식으로 전환했습니다.
 “알고 있는 것”과 “설명할 수 있는 것”을 구분하며
 학습의 깊이를 관리하고 있습니다.
 
+아래는 Notion에서 정리한 학습 내용을
+Markdown 형식으로 재구성하여 기록한 링크입니다.
+
+🔗 [Learning Notes Repository](https://github.com/Manyong1204/learning-notes)
+
+
 
 
 ---
