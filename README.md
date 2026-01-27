@@ -20,9 +20,9 @@
 
 ### 🧩 How I Learn & Work
 
-- 이해가 안 되는 개념은 그대로 두지 않습니다.
-- “왜 이렇게 되는지”를 설명할 수 있을 때까지 정리합니다.
-- 새로운 도구(AI, 노션, 라이브러리)를 빠르게 실무/학습에 연결하는 편입니다.
+- 이해되지 않은 개념은 그대로 넘기지 않습니다.
+- 설명 가능한 상태가 될 때까지 정리합니다.
+- 새로운 도구(AI, 노션, 라이브러리) 를 학습과 실무에 빠르게 연결합니다.
 
 
 ---
@@ -45,42 +45,24 @@
 * **역할:** 데이터 분석(EDA) 및 인사이트 추출, 수집부터 모델링까지의 ML 파이프라인 구축, XAI 기반 대시보드 구현
 * **기술:** Python, Pandas, Scikit-learn, Matplotlib 등
 
+
 ---
+
+
 ### 📘 Learning Log (Bootcamp & Self-Study)
 
+부트캠프 및 개인 학습 과정에서
+이해한 내용을 Notion에 구조화하여 정리하고 있습니다.
 
-부트캠프에서 학습한 내용을 매일 Notion에 정리하고 있습니다.
-초기에는 단순 요약 중심이었으나,
-학습 난도가 높아질수록 이해를 돕기 위해
-AI를 활용한 구조화 학습 방식으로 전환했습니다.
+- 개념 재정리
+- 예제 문제 생성
+- 풀이 및 해설 서술
+- 코드/실습과 연결한 복습
 
-- 개념을 제 언어로 재정리
-- 이해 확인용 예제 문제 직접 생성
-- 풀이 과정과 해설까지 서술
-- 이후 코드/실습과 연결하여 복습
-
-이를 통해
-“알고 있는 것”과 “설명할 수 있는 것”을 구분하며
-학습의 깊이를 관리하고 있습니다.
-
-아래는 Notion에서 정리한 학습 내용을
-Markdown 형식으로 재구성하여 기록한 링크입니다.
+아래는 학습 내용을
+Markdown 형식으로 재구성한 저장소입니다.
 
 🔗 [Learning Notes Repository](https://github.com/Manyong1204/learning-notes)
-
-
-
-
----
-
-
-### 🛠 Tech Stack & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white">
-</p>
 
 
 ---
