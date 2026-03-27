@@ -73,6 +73,7 @@ Markdown 형식으로 재구성한 저장소입니다.
 | 자격증 명칭 | 취득 일자 | 배지 및 증명 |
 | :--- | :---: | :--- |
 | **AICE Associate** | 2025.12.20 | <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/YktRTmxiZUk1TXJDZWxkMlBnVktsZz09"><img width="100" alt="AICE Associate_image" src="https://github.com/user-attachments/assets/556b62de-eb2b-4a43-8789-d8224760e452" /></a> |
+| **SQLD** | 2026.03.27 | [<img src="https://img.shields.io/badge/SQLD-grey?style=flat-square&logo=mysql&logoColor=white">](https://github.com/Manyong1204/Manyong1204/blob/main/certificates/slqd%EC%9E%90%EA%B2%A9%EC%A6%9D.png) |
 | **ADsP (데이터분석 준전문가)** | 2025.11.28 | [<img src="https://img.shields.io/badge/ADsP-blue?style=flat-square&logo=analytics&logoColor=white">](./certificates/ADsP자격증.png) |
 | **재경관리사** | 2022.04 | [<img src="https://img.shields.io/badge/Financial_Manager-orange?style=flat-square&logo=cashapp&logoColor=white">](./certificates/재경관리사%20합격확인서.png) |
 | **증권펀드투자상담사** | 2014.05 | [<img src="https://img.shields.io/badge/Fund_Advisor-gold?style=flat-square&logo=trendingup&logoColor=white">](./certificates/펀드투자상담사%20합격증.pdf) |
@@ -82,7 +83,7 @@ Markdown 형식으로 재구성한 저장소입니다.
 | **컴퓨터활용능력 2급** | 2013.03 | <img width="100" src="./certificates/컴퓨터활용능력%202급%20디지털%20배지.png"> |
 | **新JLPT N2급** | 2022.01 | *Coming Soon...* 🇯🇵 |
 | **2종보통운전면허** | 2023.11 | <img src="https://img.shields.io/badge/Driver_License-555555?style=flat-square&logo=speedtest&logoColor=white"> |
-| **SQLD** | 2026.03.27 | [<img src="https://img.shields.io/badge/SQLD-grey?style=flat-square&logo=mysql&logoColor=white">](https://github.com/Manyong1204/Manyong1204/blob/main/certificates/slqd%EC%9E%90%EA%B2%A9%EC%A6%9D.png) |
+
 
 
 ---
