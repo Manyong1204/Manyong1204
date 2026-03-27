@@ -82,7 +82,7 @@ Markdown 형식으로 재구성한 저장소입니다.
 | **컴퓨터활용능력 2급** | 2013.03 | <img width="100" src="./certificates/컴퓨터활용능력%202급%20디지털%20배지.png"> |
 | **新JLPT N2급** | 2022.01 | *Coming Soon...* 🇯🇵 |
 | **2종보통운전면허** | 2023.11 | <img src="https://img.shields.io/badge/Driver_License-555555?style=flat-square&logo=speedtest&logoColor=white"> |
-| **SQLD** | *Preparing* | <img src="https://img.shields.io/badge/SQLD-grey?style=flat-square&logo=mysql&logoColor=white"> |
+| **SQLD** | 2026.03.27 | <img src="https://img.shields.io/badge/SQLD-grey?style=flat-square&logo=mysql&logoColor=white"> |
 
 
 ---
