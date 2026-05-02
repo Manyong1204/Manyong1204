@@ -30,7 +30,7 @@
 
 ### 🛠 Tech Stack
 
-* **Language & Libraries:** Python, Pandas, Scikit-learn, Matplotlib
+* **Language & Libraries:** Python, SQL, Pandas, Scikit-learn, Matplotlib
 * **Database & Tools:** MySQL, Streamlit, Notion
 * **Domain Knowledge:** 회계 실무(더존 위하고/Smart A), 법인 결산 보조, 부가세 신고, 재무지표 분석
 
