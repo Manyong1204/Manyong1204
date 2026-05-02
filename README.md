@@ -49,25 +49,6 @@
 ---
 
 
-### 📘 Learning Log (Bootcamp & Self-Study)
-
-부트캠프 및 개인 학습 과정에서
-이해한 내용을 Notion에 구조화하여 정리하고 있습니다.
-
-- 개념 재정리
-- 예제 문제 생성
-- 풀이 및 해설 서술
-- 코드/실습과 연결한 복습
-
-아래는 학습 내용을
-Markdown 형식으로 재구성한 저장소입니다.
-
-🔗 [Learning Notes Repository](https://github.com/Manyong1204/learning-notes)
-
-
----
-
-
 ### 🏅 Certifications & Qualifications
 
 | 자격증 명칭 | 취득 일자 | 배지 및 증명 |
