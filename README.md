@@ -6,7 +6,7 @@
 ---
 
 
-### ✨ About Me
+### ◆ About Me
 
 저는 회계·관리 실무 **5년 6개월**의 경험을 통해 데이터의 **정확성**과 **설명 책임(Accountability)** 이 얼마나 중요한지 현장에서 먼저 배운 데이터 분석가입니다.
 
@@ -18,7 +18,7 @@
 ---
 
 
-### 🧩 How I Learn & Work
+### ◆ How I Learn & Work
 
 - 업무의 중요도에 따라 우선순위를 설정하고, 전체 일정을 계획합니다.
 - 시간 배분을 통해 업무를 기한 내 완료하는 것을 중요하게 생각합니다.
@@ -28,7 +28,7 @@
 ---
 
 
-### 🛠 Tech Stack
+### ◆ Tech Stack
 
 * **Language & Libraries:** Python, SQL, Pandas, Scikit-learn, Matplotlib
 * **Database & Tools:** MySQL, Streamlit, Notion
@@ -38,15 +38,15 @@
 ---
 
 
-###  Major Projects
+### ◆ Major Projects
 
-#### 📊 [ESG 등급 예측 모델 개발] (https://github.com/hw1357/Create_ESG_Grade_Prediction_Model)
+#### ▷ [ESG 등급 예측 모델 개발] (https://github.com/hw1357/Create_ESG_Grade_Prediction_Model)
 * **설명:** 기업의 재무 및 비재무 데이터를 활용하여 ESG 등급을 예측하는 머신러닝 모델 구현
 * **역할:** 데이터 분석(EDA) 및 인사이트 추출, 수집부터 모델링까지의 ML 파이프라인 구축, XAI 기반 대시보드 구현
 * **기술:** Python, Pandas, Scikit-learn, Matplotlib 등
 
 
-#### 🎮 [게임 크로스플레이 유저 결제 행태 분석](https://github.com/Manyong1204/game-crossplay-spending-analysis)
+#### ▷ [게임 크로스플레이 유저 결제 행태 분석](https://github.com/Manyong1204/game-crossplay-spending-analysis)
 * **설명:** 게임 이용자 실태조사 데이터를 기반으로, PC–모바일 크로스플레이 유저와 일반 유저 간의 결제 행태 차이를 분석한 데이터 분석 프로젝트
 * **역할:** 데이터 전처리 및 코드북 매핑, 크로스플레이 여부 판별 로직 구현, 통계 검정(Mann–Whitney U / 카이제곱), 연령·이용 빈도 통제 분석 및 시각화 수행
 * **핵심 인사이트:** 크로스플레이 유저는 일반 유저 대비 평균 및 중앙값 기준 모두 더 높은 결제 성향을 보였으며, 이용 빈도 통제 이후에도 동일한 패턴이 유지됨
@@ -54,7 +54,7 @@
 
 ---
 
-### 🏅 Certifications & Qualifications
+### ◆ Certifications & Qualifications
 
 | 자격증 명칭 | 취득 일자 | 배지 및 증명 |
 | :--- | :---: | :--- |
@@ -75,7 +75,7 @@
 ---
 
 
-### 📫 Contact
+### ◆ Contact
 * **Email:** sunah_1024@naver.com
 * **GitHub:** [Manyong1204](https://github.com/Manyong1204)
 * **Education:** AIoT 데이터 분석가 부트캠프 참여 중
