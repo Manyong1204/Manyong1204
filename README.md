@@ -46,9 +46,7 @@
 * **기술:** Python, Pandas, Scikit-learn, Matplotlib 등
 
 
----
-
-####  [게임 크로스플레이 유저 결제 행태 분석](https://github.com/Manyong1204/game-crossplay-spending-analysis)
+#### 🎮 [게임 크로스플레이 유저 결제 행태 분석](https://github.com/Manyong1204/game-crossplay-spending-analysis)
 * **설명:** 게임 이용자 실태조사 데이터를 기반으로, PC–모바일 크로스플레이 유저와 일반 유저 간의 결제 행태 차이를 분석한 데이터 분석 프로젝트
 * **역할:** 데이터 전처리 및 코드북 매핑, 크로스플레이 여부 판별 로직 구현, 통계 검정(Mann–Whitney U / 카이제곱), 연령·이용 빈도 통제 분석 및 시각화 수행
 * **핵심 인사이트:** 크로스플레이 유저는 일반 유저 대비 평균 및 중앙값 기준 모두 더 높은 결제 성향을 보였으며, 이용 빈도 통제 이후에도 동일한 패턴이 유지됨
