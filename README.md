@@ -17,10 +17,6 @@
 * **회계 도메인 기반 데이터 이해:** 자금, 매입·매출, 미수금, 결산 데이터 등 실제 기업 재무 데이터의 흐름을 이해하고 있습니다.
 * **실무 중심의 문제 해결:** 수십 명의 초과근무 데이터를 수기로 계산하던 비효율적인 업무를 엑셀 함수 기반 자동화로 개선하여, 수 시간이 걸리던 작업을 단 몇 분 내로 단축시킨 경험이 있습니다.
 * **현재의 지향점:** 전처리 기준이 명확하고, 결과를 비즈니스 관점에서 설명할 수 있는 데이터 분석 및 대시보드 구현에 집중하고 있습니다.
-
-
----
-
 * **Resume:** [민선아 잡코리아 이력서 PDF](./민선아%20잡코리아%20이력서.pdf)
 
 ---
@@ -74,6 +70,8 @@
 
 | 자격증 명칭 | 취득 일자 | 배지 및 증명 |
 | :--- | :---: | :--- |
+| **AIoT 데이터 분석가 부트캠프 수료증** | 2026 | [수료증](./certificates/AIoT데이터분석가%20부트캠프%20수료증.jpg) |
+| **AIoT 데이터 분석가 부트캠프 우수상** | 2026 | [상장](./certificates/AIoT데이터분석가%20부트캠프%20우수상.jpg) |
 | **AICE Associate** | 2025.12.20 | <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/YktRTmxiZUk1TXJDZWxkMlBnVktsZz09"><img width="100" alt="AICE Associate_image" src="https://github.com/user-attachments/assets/556b62de-eb2b-4a43-8789-d8224760e452" /></a> |
 | **SQLD** | 2026.03.27 | [<img src="https://img.shields.io/badge/SQLD-grey?style=flat-square&logo=mysql&logoColor=white">](https://github.com/Manyong1204/Manyong1204/blob/main/certificates/slqd%EC%9E%90%EA%B2%A9%EC%A6%9D.png) |
 | **ADsP (데이터분석 준전문가)** | 2025.11.28 | [<img src="https://img.shields.io/badge/ADsP-blue?style=flat-square&logo=analytics&logoColor=white">](./certificates/ADsP자격증.png) |
@@ -94,6 +92,7 @@
 ### ◆ Contact
 * **Email:** sunah_1024@naver.com
 * **GitHub:** [Manyong1204](https://github.com/Manyong1204)
+* **Resume:** [Download Resume](./민선아%20잡코리아%20이력서.pdf)
 * **Education:** AIoT 데이터 분석가 부트캠프 수료
 
 
