@@ -50,15 +50,17 @@
 ### ◆ Major Projects
 
 #### ▷ [ESG 등급 예측 모델 개발](https://github.com/Manyong1204/Create_ESG_Grade_Prediction_Model)
-* **설명:** 기업의 재무 및 비재무 데이터를 활용하여 ESG 등급을 예측하는 머신러닝 모델 구현
-* **역할:** 데이터 분석(EDA) 및 인사이트 추출, 수집부터 모델링까지의 ML 파이프라인 구축, XAI 기반 대시보드 구현
+* **설명:** 기업의 재무 및 비재무 데이터를 활용하여 차년도 ESG 등급을 예측하는 머신러닝 모델 및 Streamlit 대시보드 구현
+* **역할:** 데이터 분석(EDA), 변수 설계, 회귀·분류 모델 성능 비교, XGBoost 기반 최종 모델 해석, Streamlit 대시보드 구현
 * **핵심 인사이트:** ESG 등급 예측을 회귀 문제가 아닌 다중분류 문제로 재정의하여 성능을 개선했으며, XGBoost 최종 모델에서 ROC-AUC 0.829를 달성함. SHAP 분석을 통해 등급 예측에 영향을 미치는 주요 변수를 해석 가능하게 시각화함
-* **기술:** Python, Pandas, Scikit-learn, Matplotlib 등
+* **주요 기능:** 기업 검색, ESG 등급 예측, Feature Simulation, SHAP 기반 예측 근거 분석, 개선 전략 제안
+* **기술:** Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Streamlit, Plotly, Matplotlib
+* **Demo:** https://esg-prediction-dashboard.streamlit.app
 
 
 #### ▷ [게임 크로스플레이 유저 결제 행태 분석](https://github.com/Manyong1204/game-crossplay-spending-analysis)
 * **설명:** 게임 이용자 실태조사 데이터를 기반으로, PC–모바일 크로스플레이 유저와 일반 유저 간의 결제 행태 차이를 분석한 데이터 분석 프로젝트
-* **역할:** 데이터 전처리 및 코드북 매핑, 크로스플레이 여부 판별 로직 구현, 통계 검정(Mann–Whitney U / 카이제곱), 연령·이용 빈도 통제 분석 및 시각화 수행
+* **역할:** 데이터 전처리 및 코드북 매핑, 크로스플레이 여부 판별 로직 구현, 통계 검정, 연령·이용 빈도 통제 분석 및 시각화 수행
 * **핵심 인사이트:** 크로스플레이 유저는 일반 유저 대비 평균 및 중앙값 기준 모두 더 높은 결제 성향을 보였으며, 이용 빈도 통제 이후에도 동일한 패턴이 유지됨
 * **기술:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy
 
