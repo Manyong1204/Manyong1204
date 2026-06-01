@@ -48,6 +48,7 @@
 | **주요 구현** | 기업 검색, ESG 등급 예측, Feature Simulation, SHAP 기반 예측 근거 분석, 개선 전략 제안 |
 | **성과** | ESG 등급 예측 문제를 다중분류로 재정의하여 XGBoost 최종 모델에서 ROC-AUC 0.829 달성 |
 | **기술 스택** | Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Streamlit, Plotly, Matplotlib |
+| **GitHub** | [Project Repository](https://github.com/Manyong1204/Create_ESG_Grade_Prediction_Model) / [Dashboard Repository](https://github.com/Manyong1204/esg-prediction-dashboard) |
 | **Demo** | [Streamlit App](https://esg-prediction-dashboard.streamlit.app/) |
 
 
