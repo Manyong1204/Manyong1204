@@ -96,11 +96,11 @@
 
 | 자격증 명칭 | 취득 일자 | 배지 및 증명 |
 | :--- | :---: | :--- |
-| **AIoT 데이터 분석가 부트캠프 수료증** | 2026 | [수료증](./certificates/AIoT데이터분석가%20부트캠프%20수료증.jpg) |
 | **AIoT 데이터 분석가 부트캠프 우수상** | 2026 | [상장](./certificates/AIoT데이터분석가%20부트캠프%20우수상.jpg) |
-| **AICE Associate** | 2025.12.20 | <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/YktRTmxiZUk1TXJDZWxkMlBnVktsZz09"><img width="100" alt="AICE Associate_image" src="https://github.com/user-attachments/assets/556b62de-eb2b-4a43-8789-d8224760e452" /></a> |
+| **AIoT 데이터 분석가 부트캠프 수료증** | 2026 | [수료증](./certificates/AIoT데이터분석가%20부트캠프%20수료증.jpg) |
 | **SQLD** | 2026.03.27 | [<img src="https://img.shields.io/badge/SQLD-grey?style=flat-square&logo=mysql&logoColor=white">](https://github.com/Manyong1204/Manyong1204/blob/main/certificates/slqd%EC%9E%90%EA%B2%A9%EC%A6%9D.png) |
 | **ADsP (데이터분석 준전문가)** | 2025.11.28 | [<img src="https://img.shields.io/badge/ADsP-blue?style=flat-square&logo=analytics&logoColor=white">](./certificates/ADsP자격증.png) |
+| **AICE Associate** | 2025.12.20 | <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/YktRTmxiZUk1TXJDZWxkMlBnVktsZz09"><img width="100" alt="AICE Associate_image" src="https://github.com/user-attachments/assets/556b62de-eb2b-4a43-8789-d8224760e452" /></a> |
 | **재경관리사** | 2022.04 | [<img src="https://img.shields.io/badge/Financial_Manager-orange?style=flat-square&logo=cashapp&logoColor=white">](./certificates/재경관리사%20합격확인서.png) |
 | **증권펀드투자상담사** | 2014.05 | [<img src="https://img.shields.io/badge/Fund_Advisor-gold?style=flat-square&logo=trendingup&logoColor=white">](./certificates/펀드투자상담사%20합격증.pdf) |
 | **전산회계 1급** | 2013.04 | [<img src="https://img.shields.io/badge/Accounting_L1-31C653?style=flat-square&logo=googlesheets&logoColor=white">](./certificates/전산회계%201급%20자격취득확인서.png) |
