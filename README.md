@@ -1,8 +1,6 @@
-# 민선아 | Financial Data Analyst
+# 민선아 | AI·RPA 자동화 개발자 · 데이터 분석가
 
-> **회계·재무 실무 경험과 데이터 분석 역량을 연결하여 비즈니스 의사결정을 지원하는 데이터 분석가입니다.**
-
-
+> **회계·관리 실무 5년 6개월의 업무 프로세스 이해를 바탕으로, 반복 업무를 AI·RPA와 데이터 분석으로 개선하는 개발자입니다.**
 
 ---
 
@@ -10,11 +8,64 @@
 
 | Area | Description |
 | :--- | :--- |
-| **Financial Domain** | 회계·관리 실무 5년 6개월 경험을 바탕으로 자금, 매입·매출, 미수금, 결산 데이터의 흐름을 이해합니다. |
-| **Data Analytics** | Python, Pandas, NumPy를 활용한 데이터 전처리, EDA, 통계 검정 및 인사이트 도출 경험이 있습니다. |
-| **Machine Learning** | Scikit-learn, XGBoost, LightGBM 기반 회귀·분류 모델링과 성능 비교 경험이 있습니다. |
-| **BI & Dashboard** | Streamlit, Plotly를 활용해 분석 결과를 사용자가 탐색할 수 있는 대시보드로 구현했습니다. |
-| **Database & Tools** | SQL, MySQL, GitHub, Notion, Excel을 활용하여 데이터 조회, 정리, 문서화 및 업무 자동화를 수행합니다. |
+| **AI·RPA Automation** | UiPath를 활용해 음성 인식, AI 분석, Excel 기록, 대시보드 생성 및 이메일 발송으로 이어지는 업무 프로세스를 구현했습니다. |
+| **Computer Vision** | TensorFlow/Keras와 MobileNetV2 전이학습을 활용해 이미지 분류 모델을 개발하고 성능평가와 오분류 분석을 수행했습니다. |
+| **Data Analytics** | Python, Pandas, SQL을 활용한 데이터 전처리, EDA, 통계 검정 및 인사이트 도출 경험이 있습니다. |
+| **Machine Learning** | Scikit-learn, XGBoost, LightGBM 기반 회귀·분류 모델링과 SHAP 기반 모델 해석 경험이 있습니다. |
+| **Business Domain** | 회계·관리 실무 5년 6개월을 바탕으로 자금, 매입·매출, 미수금, 결산 및 반복 업무의 흐름을 이해합니다. |
+
+---
+
+### ◆ Featured Projects
+
+#### 1. [AI 상담 분석 자동화](https://github.com/Manyong1204/uipath-ai-customer-service-automation)
+
+합성 상담 음성을 텍스트로 변환하고, 생성형 AI 분석부터 긴급도 판정, Excel 기록, HTML 대시보드 생성 및 이메일 발송까지 연결한 UiPath 자동화 프로젝트입니다.
+
+- **담당 역할:** AI 분석 엔진 구현, STT·AI 연동, JSON 결과 추출, 프롬프트 설계, 테스트 및 디버깅
+- **주요 구현:** 음성 일괄 변환, 문의 분류·요약·감정 분석, 긴급도 판정, 응대 가이드 작성, Excel 기록, 이메일 발송
+- **보안 관리:** API와 이메일 자격증명을 UiPath Orchestrator Asset으로 분리
+- **기술 스택:** UiPath Studio, UiPath Orchestrator, OpenAI API, Excel, HTML/CSS, SMTP
+
+#### 2. [반려식물 건강 상태 CNN 분류](https://github.com/Manyong1204/plant-health-cnn)
+
+MobileNetV2 전이학습을 이용해 식물 사진을 Healthy, Stress, Pest_Disease 세 가지 상태로 분류한 컴퓨터 비전 프로젝트입니다.
+
+- **데이터:** 총 460장, 3개 클래스, 독립 테스트 데이터 70장
+- **성과:** Test Accuracy **85.71%**, Macro F1-score **0.8567**
+- **주요 구현:** 데이터 전처리, 클래스 가중치 적용, 전이학습, 성능평가 및 오분류 분석
+- **기술 스택:** Python, TensorFlow/Keras, MobileNetV2, scikit-learn, Matplotlib
+- **Demo:** [Streamlit App](https://plant-health-app-k6ptic8qruje66daq3is4b.streamlit.app/)
+- **Dashboard Repository:** [plant-health-app](https://github.com/Manyong1204/plant-health-app)
+
+#### 3. [ESG 등급 예측 모델](https://github.com/Manyong1204/Create_ESG_Grade_Prediction_Model)
+
+기업의 재무·비재무 데이터를 활용해 차년도 ESG 등급을 예측하고, SHAP 분석과 Feature Simulation 기능을 구현한 머신러닝 프로젝트입니다.
+
+- **담당 역할:** 데이터 분석, 변수 설계, 모델 성능 비교, 모델 해석, Streamlit 대시보드 구현
+- **성과:** XGBoost 최종 모델 ROC-AUC **0.829**
+- **기술 스택:** Python, Pandas, Scikit-learn, XGBoost, SHAP, Streamlit, Plotly
+- **Demo:** [Streamlit App](https://esg-prediction-dashboard.streamlit.app/)
+
+#### 4. [게임 크로스플레이 유저 결제 행태 분석](https://github.com/Manyong1204/game-crossplay-spending-analysis)
+
+게임 이용자 조사 데이터를 바탕으로 PC·모바일 크로스플레이 유저와 일반 유저의 결제 행태 차이를 분석한 프로젝트입니다.
+
+- **담당 역할:** 데이터 전처리, 코드북 매핑, 통계 검정, 통제 분석 및 시각화
+- **주요 분석:** Mann–Whitney U 검정, 카이제곱 검정, 연령·이용 빈도 통제 분석
+- **결과:** 이용 빈도를 통제한 이후에도 크로스플레이 유저의 높은 결제 성향 확인
+- **기술 스택:** Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn
+
+---
+
+### ◆ Business Impact
+
+| Case | Impact |
+| :--- | :--- |
+| **초과근무 정산 개선** | Excel 함수 조합을 활용해 약 70명 규모의 초과근무 정산 시간을 1시간~1시간 30분에서 약 15분으로 단축 |
+| **반복 자료 작성 개선** | 반복적으로 작성하던 자료에 Excel 함수를 적용하여 작업 시간을 약 40% 이상 절감 |
+| **마감·출고 일정 관리 체계화** | Notion 템플릿, 공유 캘린더와 물류팀 커뮤니케이션 채널을 활용하여 누락 및 중복 출고 방지 |
+| **미수금 관리 프로세스 개선** | 거래처별 결제일과 입금 현황을 관리하여 입금 지연 발생 시 보고 및 후속 조치 수행 |
 
 ---
 
@@ -37,60 +88,32 @@
 
 ---
 
-### ◆ Major Projects
+### ◆ Training
 
-#### ▷ [ESG 등급 예측 모델 개발](https://github.com/Manyong1204/Create_ESG_Grade_Prediction_Model)
+#### 우리인재개발원 | 심화 AI 기반 지능형 솔루션 개발 과정
 
-| 항목 | 내용 |
-| :--- | :--- |
-| **프로젝트 개요** | 기업의 재무 및 비재무 데이터를 활용하여 차년도 ESG 등급을 예측하는 머신러닝 모델 및 Streamlit 대시보드 구현 |
-| **담당 역할** | 데이터 분석, 변수 설계, 회귀·분류 모델 성능 비교, XGBoost 기반 최종 모델 해석, Streamlit 대시보드 구현 |
-| **주요 구현** | 기업 검색, ESG 등급 예측, Feature Simulation, SHAP 기반 예측 근거 분석, 개선 전략 제안 |
-| **성과** | ESG 등급 예측 문제를 다중분류로 재정의하여 XGBoost 최종 모델에서 ROC-AUC 0.829 달성 |
-| **기술 스택** | Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Streamlit, Plotly, Matplotlib |
-| **GitHub** | [Project Repository](https://github.com/Manyong1204/Create_ESG_Grade_Prediction_Model) / [Dashboard Repository](https://github.com/Manyong1204/esg-prediction-dashboard) |
-| **Demo** | [Streamlit App](https://esg-prediction-dashboard.streamlit.app/) |
-
-
-#### ▷ [게임 크로스플레이 유저 결제 행태 분석](https://github.com/Manyong1204/game-crossplay-spending-analysis)
-
-| 항목 | 내용 |
-| :--- | :--- |
-| **프로젝트 개요** | 게임 이용자 실태조사 데이터를 기반으로 PC–모바일 크로스플레이 유저와 일반 유저 간 결제 행태 차이를 분석 |
-| **담당 역할** | 데이터 전처리, 코드북 매핑, 크로스플레이 여부 판별 로직 구현, 통계 검정, 연령·이용 빈도 통제 분석 및 시각화 |
-| **주요 구현** | 결제 여부 및 결제 금액 비교, Mann–Whitney U 검정, 카이제곱 검정, 이용 빈도 통제 분석 |
-| **성과** | 크로스플레이 유저가 일반 유저 대비 평균 및 중앙값 기준 모두 더 높은 결제 성향을 보였으며, 이용 빈도 통제 이후에도 동일한 패턴 유지 확인 |
-| **기술 스택** | Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy |
+- UiPath 기반 RPA 프로세스 설계 및 구현
+- Python 데이터 분석과 머신러닝
+- TensorFlow/Keras 기반 딥러닝
+- 컴퓨터 비전과 CNN 이미지 분류
+- 생성형 AI API 연동과 서비스 구현
 
 ---
-
-### ◆ Business Impact
-
-| Case | Impact |
-| :--- | :--- |
-| **초과근무 정산 자동화** | 수십 명의 초과근무 데이터를 수기로 계산하던 반복 업무를 Excel 함수 조합으로 자동화하여, 수 시간이 걸리던 작업을 단 몇 분 내로 단축 |
-| **반복 자료 작성 개선** | 반복적으로 작성하던 자료에 Excel 함수를 적용하여 작업 시간을 약 40% 이상 절감 |
-| **마감·출고 일정 관리 체계화** | Notion 템플릿, 공유 캘린더, 물류팀 커뮤니케이션 채널을 함께 활용하여 누락 및 중복 출고 방지 |
-| **미수금 관리 프로세스 개선** | 거래처별 결제일과 입금 현황을 관리하여 입금 지연 발생 시 보고 및 후속 조치 수행 |
-
-
----
-
 
 ### ◆ Tech Stack
 
-* **Language:** Python, SQL
-* **Data Analysis:** Pandas, NumPy
-* **Visualization:** Matplotlib, Seaborn, Plotly
-* **Machine Learning:** Scikit-learn, XGBoost, LightGBM
-* **Model Interpretation:** SHAP
-* **Dashboard:** Streamlit, Power BI
-* **Database & Tools:** MySQL, GitHub, Notion, Excel
-* **Domain Knowledge:** 회계 실무, 더존 위하고/Smart A, 법인 결산 보조, 부가세 신고, 재무지표 분석
-
+- **Language:** Python, SQL
+- **RPA & Automation:** UiPath Studio, UiPath Orchestrator, Excel Automation
+- **AI Integration:** OpenAI API, Gemini API, REST API, Prompt Design
+- **Deep Learning:** TensorFlow, Keras, MobileNetV2
+- **Data Analysis:** Pandas, NumPy, SciPy
+- **Machine Learning:** Scikit-learn, XGBoost, LightGBM
+- **Model Interpretation:** SHAP
+- **Visualization & Application:** Streamlit, Plotly, Matplotlib, Seaborn, HTML/CSS
+- **Database & Tools:** MySQL, GitHub, Notion, Excel
+- **Business Domain:** 회계·관리 실무, 재무 데이터, 결산 보조, 부가세 신고, 업무 프로세스 개선
 
 ---
-
 
 ### ◆ Certifications & Qualifications
 
@@ -114,14 +137,13 @@
 
 ### ◆ About Me
 
-빠른 취업을 위해 회계를 전공하고 회계·관리 실무를 시작했지만, 업무를 수행할수록 숫자 안에 숨어 있는 규칙과 구조를 발견하는 일에 더 큰 흥미를 느꼈습니다.
+회계·관리 실무를 5년 6개월 수행하며 자금, 매입·매출, 미수금, 결산 및 증빙 데이터가 실제 업무에서 처리되는 과정을 경험했습니다.
 
-특히 반복적인 수기 계산과 자료 정리 업무를 Excel 함수 조합으로 자동화하며 데이터 처리와 업무 효율화에 관심을 갖게 되었고, 이후 Python, SQL, 머신러닝, Streamlit을 학습하며 데이터 분석가로의 직무 전환을 준비하고 있습니다.
+반복적인 수기 계산과 자료 작성 업무에 Excel 함수 조합을 적용하면서 업무 효율화에 관심을 갖게 되었고, 이후 Python, SQL, 머신러닝, 딥러닝과 UiPath를 학습하며 기술을 활용한 업무 개선으로 관심 영역을 확장했습니다.
 
-현재는 회계 실무에서 쌓은 재무 데이터 이해를 바탕으로, 비즈니스 의사결정에 기여할 수 있는 데이터 분석가로 성장하고자 합니다.
+현재는 비즈니스 프로세스와 재무 데이터를 이해하는 경험을 바탕으로, 현업의 반복 업무를 AI·RPA와 데이터 분석으로 개선할 수 있는 개발자로 성장하고 있습니다.
 
 ---
-
 
 ### ◆ Contact
 * **Email:** sunah_1024@naver.com
